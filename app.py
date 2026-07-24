@@ -204,6 +204,8 @@ def segmentar_parche(parche_rgb, umbral):
 # MENÚ PRINCIPAL
 # ==================================================
 
+tarea = "Crack Detection and Segmentation"
+
 subcampo = st.sidebar.radio(
     "Tipo de fotografía",
     [
