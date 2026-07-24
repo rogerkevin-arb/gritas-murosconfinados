@@ -1,9 +1,8 @@
-streamlit==1.60.0
+streamlit
 pillow
-numpy==2.2.6
+numpy
 tensorflow==2.20.0
-ultralytics==8.3.0
-opencv-python-headless==4.11.0.86
+opencv-python-headless
 matplotlib
 scikit-image
 psutil
